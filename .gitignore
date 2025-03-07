@@ -1,0 +1,5 @@
+# slurm job script
+.sh
+
+# slurm job output
+.out
