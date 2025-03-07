@@ -1,3 +1,5 @@
+## **The Rise of Bluesky**
+
 We examine how activity and network structure on Bluesky have co-evolved between August 2023 and February 2025 to investigate whether the platform has reached a stable, self-sustaining state.
 ![main_fig](https://github.com/user-attachments/assets/e4436325-6dde-43e3-a887-df62497bad68)
 
